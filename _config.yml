@@ -1,11 +1,11 @@
 # Site settings
-title: Nick Blog
+title: Nick sercet gradan
 SEOTitle: 满天星的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: 541778971@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 满天星的博客, nick, 满天星, iOS, Apple, ipad"
-url: "http://NICK03219860113.github.io"          # your host, for absolute URL
+keyword: "满天星的博客, nick, 满天星, iOS, Apple, ipad"
+url: "http://Nick03219860113.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
@@ -18,7 +18,7 @@ sidebar-avatar: /img/avatar-by.JPG      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-# weibo_username:     满天星
+# weibo_username:   晨滔
 zhihu_username:     满天星
 github_username:    Nick03219860113
 facebook_username:  满天星
